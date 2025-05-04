@@ -1,6 +1,6 @@
 # JavaScript Conditional Form for bangladesh Division, District & Police Station and more
 
-[Demo](https://hmbashar.github.io/bangladesh-division-Districts-police-station-condational-form/)
+[Demo](https://hmbashar.github.io/bangladesh-division-Districts-police-station-conditional-form/)
 
 ## HTML
 ```<!DOCTYPE html>
